@@ -1,0 +1,13 @@
+# Local agent/runtime files
+.agents/
+.codex/
+work/
+
+# Next.js dependencies and build output
+outputs/production-sample-tracking/node_modules/
+outputs/production-sample-tracking/.next/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.log
