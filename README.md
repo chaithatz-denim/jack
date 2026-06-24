@@ -6,6 +6,10 @@ Standalone HTML prototype for production sample tracking, weekly reporting, work
 
 Open [`outputs/production_sample_tracking_prototype.html`](outputs/production_sample_tracking_prototype.html) in a browser.
 
+## Deploy on Vercel
+
+The repository includes `vercel.json`, which maps the production domain root to the standalone prototype. Vercel requires no build command or framework preset for this static deployment.
+
 Demo login:
 
 - User: `jack`

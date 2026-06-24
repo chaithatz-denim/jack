@@ -1,0 +1,6 @@
+.git
+.agents
+.codex
+work
+outputs/production-sample-tracking
+*.log

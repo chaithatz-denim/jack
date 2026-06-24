@@ -2,6 +2,7 @@
 .agents/
 .codex/
 work/
+.vercel/
 
 # Next.js dependencies and build output
 outputs/production-sample-tracking/node_modules/
@@ -11,3 +12,5 @@ outputs/production-sample-tracking/.next/
 .DS_Store
 Thumbs.db
 *.log
+
+.vercel
