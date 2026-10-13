@@ -1,0 +1,13 @@
+.vercel
+node_modules/
+.next/
+.pnpm-store/
+.env.local
+.env.vercel
+backups/
+
+.env*
+!.env.local.example
+.next-preview/
+.npm-cache/
+*.tsbuildinfo
